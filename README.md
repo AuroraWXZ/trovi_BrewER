@@ -1,6 +1,6 @@
 # BrewER Reproduction on Chameleon Trovi
 
-The version of this artifact published on Trovi corresponds to the trovi-snapshot branch.
+The version of the artifact is pinned to a specific commit, which may differ from the latest version in the repository.
 
 ## Overview
 This repository contains the artifact for the Chameleon Trovi project, including the code and instructions for replicating experiments using a remote Chameleon compute node. Its primary purpose is to:
